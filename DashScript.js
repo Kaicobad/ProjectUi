@@ -1,4 +1,4 @@
-$.getJSON("G://ProjectUi/Dashboard/DashJSON.json",loadOptions)
+$.getJSON("DashJSON.json",loadOptions)
 
 function loadOptions(data) {
 	console.log(data);
